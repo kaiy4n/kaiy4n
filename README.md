@@ -1,6 +1,6 @@
 [ABOUT ME]
 
-- 👋 Hi, I’m @kaiy4n
+- 👋 Hi, I’m Ian Nevri Pascual
 - 👀 I’m interested in Statistics and Dragons
 - 🌱 I’m currently learning Data Analytics and Data Science
 - 📫 How to reach me: iannevribp@gmail.com
